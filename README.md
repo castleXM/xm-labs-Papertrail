@@ -20,12 +20,14 @@ This integration uses a generic Papertrail Webhook integration. When a Papertrai
   <img src="media/papertrail.PNG" alt="Configuring an Alert in Papertrail" height="400">
 </kbd>
 
-2. Ensure that this Comm Plan has been deployed into xMatters. For help on configuring Comm Plans, please see this link:
+2. Ensure that the Papertrail v1 Comm Plan has been deployed into xMatters. For help on configuring Comm Plans, please see this link:
 https://help.xmatters.com/OnDemand/xmodwelcome/communicationplanbuilder/exportcommplan.htm
 
-3. Copy the URL from the InboundPapertrailWebhook inbound integration in the Comm Plan.
+3. Ensure that you've set proper recipient information in the Comm Plan's PapertrailInboundWebhook form.
 
-4. Paste this URL into the Papertrail Edit Alert screen in the Webhook Details area (see screencap).
+4. Copy the URL from the InboundPapertrailWebhook inbound integration in the Comm Plan.
+
+5. Paste this URL into the Papertrail Edit Alert screen in the Webhook Details area (see screencap).
    
 # Testing
 Use the 'Send Test Data' button at the bottom of the Papertrail Edit Alert screen. You should be able to see an event in the xMatters Reports page.
