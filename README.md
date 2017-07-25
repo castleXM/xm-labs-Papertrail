@@ -17,7 +17,7 @@ This integration uses a generic Papertrail Webhook integration. When a Papertrai
 1. Configure a Saved Search in Papertrail, then an alert based off the search. Here's a screencap from Papertrail's Edit Alert screen:
 
 <kbd>
-  <img src="media/Papertrail.PNG" alt="Configuring an Alert in Papertrail" height="400">
+  <img src="media/papertrail.PNG" alt="Configuring an Alert in Papertrail" height="400">
 </kbd>
 
 2. Ensure that this Comm Plan has been deployed into xMatters. For help on configuring Comm Plans, please see this link:
