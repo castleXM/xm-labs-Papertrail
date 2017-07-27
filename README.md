@@ -7,7 +7,7 @@ This xMatters Comm Plan provides a one way integration with Papertrail. It proce
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
 
 # Files
-* [Papertrailv1.zip](Papertrailv1.zip) - The comm plan (if needed) 
+* [Papertrailv1.zip](Papertrailv1.zip) - The xMatters comm plan
 
 # How it works
 
