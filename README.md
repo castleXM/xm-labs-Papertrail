@@ -2,6 +2,15 @@
 # xMatters Comm Plan for Papertrail
 This xMatters Comm Plan provides a one way integration with Papertrail. It processes Papertrail events and provides xMatters notifications and response options.
 
+---------
+
+<kbd>
+  <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+</kbd>
+
+---------
+
+
 # Pre-Requisites
 * A Papertrail account (https://papertrailapp.com).
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
