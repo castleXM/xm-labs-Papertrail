@@ -12,6 +12,9 @@ This xMatters Comm Plan provides a one way integration with Papertrail. It proce
 
 ---------
 
+An updated version of this integration is available, supporting the latest version of SolarWinds Papertrail and based on xMatters Flow Designer so you can easily connect other tools to your toolchain. Install it right from the Workflow Template directory within your xMatters instance. [Learn more](http://help.xmatters.com/integrations/#cshid=Papertrail).
+
+---------
 
 # Pre-Requisites
 * A Papertrail account (https://papertrailapp.com).
